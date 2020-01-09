@@ -90,7 +90,7 @@ angular.module('nibs.profile', ['nibs.s3uploader', 'nibs.config', 'nibs.status']
                     function() {                // callback
                         $state.go('app.messages');
                     },
-                    'Nibs',                     // title
+                    'XYZ Healthcare',                     // title
                     'Open Inbox'             // buttonName
                 );
             } else {
